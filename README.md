@@ -42,7 +42,7 @@ Open the project file and navigate to the `AppDelegate` file.
 Declare the following functions:
 
 * `stringIsPalindrome()` which takes one `String` argument called `string` and returns a `bool`, and
-* `stringByReversingString()` which takes one `String` argument names `string` and returns an `String`.
+* `stringByReversingString()` which takes one `String` argument named `string` and returns an `String`.
 
 
 ### II. Function Bodies
@@ -95,3 +95,5 @@ Because [palindromes are cool](https://www.youtube.com/watch?v=vPGTizdGwSc) (lik
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/objc-palindrome-detector' title='Code-Along: Palindrome Detector'>Code-Along: Palindrome Detector</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/objc-palindrome-detector'>Code-Along: Palindrome Detector</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-palindrome-detector-lab'>Palindrome Detector Lab</a> on Learn.co and start learning to code for free.</p>
